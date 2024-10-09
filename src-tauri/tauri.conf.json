@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "way-create-tauri-2",
+    "productName": "template-tauri-create-way2",
     "version": "0.1.0"
   },
   "tauri": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "way-create-tauri-2",
+        "title": "template-tauri-create-way2",
         "width": 800
       }
     ]

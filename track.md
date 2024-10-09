@@ -21,7 +21,7 @@ $ pnpm create vue
 
 Vue.js - The Progressive JavaScript Framework
 
-√ Project name: ... way-create-tauri-2
+√ Project name: ... template-tauri-create-way2
 √ Add TypeScript? ... No / Yes
 √ Add JSX Support? ... No / Yes
 √ Add Vue Router for Single Page Application development? ... No / Yes
@@ -32,11 +32,11 @@ Vue.js - The Progressive JavaScript Framework
 √ Add Prettier for code formatting? ... No / Yes
 √ Add Vue DevTools 7 extension for debugging? (experimental) ... No / Yes
 
-Scaffolding project in D:\cycle-own\mnz8template\way-create-tauri-2...
+Scaffolding project in D:\cycle-own\mnz8template\template-tauri-create-way2...
 
 Done. Now run:
 
-  cd way-create-tauri-2
+  cd template-tauri-create-way2
   pnpm install
   pnpm format
   pnpm dev
@@ -46,8 +46,8 @@ Done. Now run:
 
 ```
 $ pnpm tauri init
-✔ What is your app name? · way-create-tauri-2
-✔ What should the window title be? · way-create-tauri-2
+✔ What is your app name? · template-tauri-create-way2
+✔ What should the window title be? · template-tauri-create-way2
 ✔ Where are your web assets (HTML/CSS/JS) located, relative to the "<current dir>/src-tauri/tauri.conf.json" file that will be created? · ../dist
 ✔ What is the url of your dev server? · http://localhost:5173
 ✔ What is your frontend dev command? · pnpm run dev
